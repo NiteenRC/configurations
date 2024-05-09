@@ -1,17 +1,3 @@
-spring:
-  application:
-    name: order-service
-
-  datasource:
-    url: jdbc:mysql://localhost:3306/orders-db?createDatabaseIfNotExist=true
-    username: root
-    password: Root@123
-  jpa:
-    hibernate:
-      ddl-auto: update
-    properties:
-      hibernate:
-        dialect: org.hibernate.dialect.MySQL8Dialect
 eureka:
   client:
     serviceUrl:
