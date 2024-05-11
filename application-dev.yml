@@ -2,9 +2,6 @@
 mysql-username: root
 mysql-password: Root@123
 
-#CONFIG-SERVER
-config-server-port: 8082
-
 #API-GATEWAY
 gateway-server-port: 8080
 
