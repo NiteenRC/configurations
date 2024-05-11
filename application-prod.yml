@@ -1,2 +1,11 @@
-db-username: root
-db-password: Root@123
+#DMA-SERVICE
+dma-server-port: 8083
+dma-database: induct-dma
+dma-db-username: root
+dma-db-password: Root@123
+
+#PRODUCT-SERVICE
+product-server-port: 8084
+product-database: induct-product
+product-db-username: root
+product-db-password: Root@123
